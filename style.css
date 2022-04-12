@@ -183,3 +183,13 @@ button.faq-question {
 .show .faq-answer {
    display: block;
 }
+
+.minus-icon {
+   display: none;
+ }
+ .show .minus-icon {
+   display: inline;
+ }
+ .show .plus-icon {
+   display: none;
+ }
